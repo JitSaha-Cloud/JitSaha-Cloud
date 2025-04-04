@@ -1,4 +1,8 @@
 ## Hi there 👋
+Aftercare Manager(IT)-V4One
+2x Zyxel, 3x Kaspersky, 2x Yealink, 3x Microsoft,1xYeastar, 2x Webroot,1x GrandStream
+-7+Years of IT & Telecommunication Experience
+-Specialized in- Servers, Office 365, Azure, Virtualisation.
 
 <!--
 **JitSaha-Cloud/JitSaha-Cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

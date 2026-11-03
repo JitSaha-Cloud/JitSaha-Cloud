@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm not a coder, but help people to work as a TEAM! 👋
 Head Of IT & Aftercare - V4One UK
 Cloud & System Engineer | Google AI Certified | Microsoft Certified | MSP (Managed Services Provider) |
 Customer Support | Customer On-Boarding |
